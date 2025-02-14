@@ -3,9 +3,9 @@
 **Location:** San Jose, CA  
 **Phone:** +1(734) 727-3273  
 **Email:** uditishah107@gmail.com  
-**LinkedIn:** [LinkedIn](#https://in.linkedin.com/in/uditishah177)  
-**Portfolio:** [Portfolio](#https://uditishah.netlify.app/)  
-**GitHub:** [GitHub](#https://github.com/Uditishah)
+**LinkedIn:** [LinkedIn](https://in.linkedin.com/in/uditishah177)  
+**Portfolio:** [Portfolio](https://uditishah.netlify.app/)  
+**GitHub:** [GitHub](https://github.com/Uditishah)
 
 ---
 
